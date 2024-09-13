@@ -23,6 +23,7 @@ The project is currently in very early stages of discovery
   - Next steps:
     - add following as tickets into GitHub projects and do them: 
       - explore other projects applying Pandas to get a feel of analysis and further insight into what questions I want to answer
+        - continue on with: https://github.com/kitperform/strictly-jupyter/blob/main/four-tens-experimentation.ipynb
       - prototype Beautiful Soup code to scrape data into my database model, start experimenting
         - write code to link tables via foreign keys
       - give a lightning talk at PyData Southampton on Tuesday 17 September
