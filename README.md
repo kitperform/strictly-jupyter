@@ -36,5 +36,10 @@ sudo add-apt-repository universe
 sudo apt install python3 python3-pip ipython3
 sudo apt install python3.12-venv
 python3 -m venv venv
+source venv/bin/activate
 pip3 install jupyter
 jupyter notebook
+deactivate
+
+#### notes on which environment to use
+https://stackoverflow.com/a/47559925/227926
