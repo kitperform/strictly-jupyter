@@ -27,3 +27,14 @@ The project is currently in very early stages of discovery
       - prototype Beautiful Soup code to scrape data into my database model, start experimenting
         - write code to link tables via foreign keys
       - give a lightning talk at PyData Southampton on Tuesday 17 September
+
+
+
+#### setting up on Ubuntu
+
+sudo add-apt-repository universe
+sudo apt install python3 python3-pip ipython3
+sudo apt install python3.12-venv
+python3 -m venv venv
+pip3 install jupyter
+jupyter notebook
