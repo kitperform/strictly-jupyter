@@ -26,7 +26,7 @@ The project is currently in very early stages of discovery
         - continue on with: https://github.com/kitperform/strictly-jupyter/blob/main/four-tens-experimentation.ipynb
       - prototype Beautiful Soup code to scrape data into my database model, start experimenting
         - write code to link tables via foreign keys
-      - give a lightning talk at PyData Southampton on Tuesday 17 September
+      - give a lightning talk at PyData Southampton on TBD
 
 
 
